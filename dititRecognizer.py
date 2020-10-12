@@ -123,7 +123,7 @@ def main(win, width):
                 pos = pygame.mouse.get_pos()
                 row, col = getClickedPosition(pos, ROWS, width)
                 (grid[row][col]).colour = (255, 255, 255)
-                if ROWS-1 > row > 1 and ROWS-1 > col > 1:
+                if ROWS-1 > row > 0 and ROWS-1 > col > 0:
                     nearRowTile = [row, row-1, row+1]
                     nearColTile = [col, col-1, col+1]
                     for r in nearRowTile:
