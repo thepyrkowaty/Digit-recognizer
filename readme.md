@@ -9,16 +9,16 @@ Gui is made in *pygame*.
 
 __Examples:__
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/thepyrkowaty/Digit-recognizer/main/ReadmeImg/p1.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/thepyrkowaty/Digit-recognizer/main/ReadmeImg/p2.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/thepyrkowaty/Digit-recognizer/main/ReadmeImg/p3.png)
 
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/thepyrkowaty/Digit-recognizer/main/ReadmeImg/p4.png)
 
 __How to use:__
 
