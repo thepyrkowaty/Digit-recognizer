@@ -4,7 +4,7 @@
 
 This app predicts which number between 0 and 9 has been drawn by user.
  
-To create this application have used *mnist* data set to get test data and *keras* to create a model.
+To create this application I have used *mnist* data set to get test data and *keras* to create a model.
 Gui is made in *pygame*.
 
 __Examples:__
